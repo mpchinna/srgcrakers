@@ -1,0 +1,169 @@
+{
+  "shop": {
+    "nameEn": "SRI RAJA GUBERAN CRACKERS",
+    "nameTa": "ஸ்ரீராஜகுபேரன் கிராக்கர்ஸ்",
+    "addressTa": "2/446-I, ராமசாமிபுரம், இரத்தினபுரி நகர், SSSS திருமண மஹால் எதிரில், சாத்தூர் ரோடு, மீனம்பட்டி, சிவகாசி – 626 189.",
+    "addressEn": "2/446-I, Ramasamipuram, Rathinapuri Nagar, Opp. SSSS Marriage Mahal, Sattur Road, Meenampatti, Sivakasi - 626 189.",
+    "mapQuery": "Sri Raja Guberan Crackers Meenampatti Sivakasi",
+    "licenceNo": "",
+    "hours": "ALL DAY WORKING DAY - NO HOLIDAY",
+    "hoursTa": "எல்லா நாட்களும் திறந்திருக்கும் - விடுமுறை இல்லை"
+  },
+  "whatsapp": "919943874424",
+  "phones": [
+    [
+      "M. Murugesan",
+      "99438 74424"
+    ],
+    [
+      "M. Gokul",
+      "84383 94475"
+    ],
+    [
+      "M. Gokul",
+      "97511 94475"
+    ]
+  ],
+  "offer": {
+    "badge": "DISCOUNT PRICE LIST 2026",
+    "showDiscount": true,
+    "discountLabel": "80% OFF",
+    "discountNote": "80% discount",
+    "badgeTa": "தீபாவளி தள்ளுபடி விலைப் பட்டியல் 2026",
+    "discountLabelTa": "80% தள்ளுபடி",
+    "discountNoteTa": "80% தள்ளுபடி"
+  },
+  "order": {
+    "minOrder": 0,
+    "minOrderNote": "",
+    "deliveryNote": "Final price, stock and delivery are confirmed with you on WhatsApp."
+  },
+  "sheetCsvUrl": "",
+  "combos": [
+    {
+      "id": "C1",
+      "name": "Mini Family Pack",
+      "ta": "மினி குடும்ப பேக்",
+      "note": "Sparklers, pots, chakkar and sound crackers for a small family",
+      "items": {
+        "1": 2,
+        "7": 1,
+        "16": 1,
+        "17": 1,
+        "24": 1,
+        "29": 1,
+        "34": 2,
+        "39": 2,
+        "59": 1,
+        "72": 1
+      }
+    },
+    {
+      "id": "C2",
+      "name": "Diwali Family Pack",
+      "ta": "தீபாவளி குடும்ப பேக்",
+      "note": "A balanced box for 4 to 5 people",
+      "items": {
+        "1": 2,
+        "3": 2,
+        "7": 1,
+        "8": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "24": 1,
+        "28": 1,
+        "31": 1,
+        "33": 1,
+        "39": 2,
+        "47": 2,
+        "59": 1,
+        "60": 1,
+        "63": 1,
+        "64": 1,
+        "66": 1,
+        "136": 1
+      }
+    },
+    {
+      "id": "C3",
+      "name": "Grand Celebration Pack",
+      "ta": "கிராண்ட் செலிபிரேஷன் பேக்",
+      "note": "Big shots, fancy pipes, pots and sparklers for a large gathering",
+      "items": {
+        "4": 2,
+        "13": 1,
+        "21": 1,
+        "22": 1,
+        "23": 1,
+        "27": 1,
+        "28": 1,
+        "32": 1,
+        "33": 1,
+        "47": 2,
+        "55": 1,
+        "63": 2,
+        "64": 2,
+        "68": 1,
+        "91": 1,
+        "97": 1,
+        "137": 1,
+        "139": 1,
+        "154": 1
+      }
+    }
+  ],
+  "media": {
+    "_comment": "Optional manual media. Put photos in images/products/ named by product number, e.g. images/products/12.webp, or list URLs here. yt = YouTube links or IDs.",
+    "12": {
+      "img": [],
+      "yt": []
+    }
+  },
+  "districts": [
+    [
+      "Virudhunagar",
+      "விருதுநகர்"
+    ],
+    [
+      "Madurai",
+      "மதுரை"
+    ],
+    [
+      "Tirunelveli",
+      "திருநெல்வேலி"
+    ],
+    [
+      "Thoothukudi",
+      "தூத்துக்குடி"
+    ],
+    [
+      "Tenkasi",
+      "தென்காசி"
+    ],
+    [
+      "Kanyakumari",
+      "கன்னியாகுமரி"
+    ],
+    [
+      "Ramanathapuram",
+      "ராமநாதபுரம்"
+    ],
+    [
+      "Sivaganga",
+      "சிவகங்கை"
+    ],
+    [
+      "Theni",
+      "தேனி"
+    ],
+    [
+      "Dindigul",
+      "திண்டுக்கல்"
+    ],
+    [
+      "Other",
+      "மற்ற ஊர்"
+    ]
+  ]
+}

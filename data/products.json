@@ -1,0 +1,1795 @@
+{
+ "categories": [
+  "SOUND CRACKERS",
+  "BIJILI CRACKERS",
+  "BOMB",
+  "FLOWER POTS",
+  "CHAKKAR ITEMS",
+  "TWINKLING STAR",
+  "ROCKETS",
+  "SPARKLERS",
+  "PAPER BOMB",
+  "FANCY ITEMS",
+  "2\" FANCY SINGLE PIPE",
+  "2\"FANCY PIPE (3 Pcs)",
+  "3½\" PIPE FANCY MULTICOLOUR",
+  "4\" SINGLE FANCY",
+  "4\" FANCY MULTI COLOUR",
+  "4½\" FANCY PIPE (2 Pcs)",
+  "5\" FANCY SINGLE PIPE (1 Pce)",
+  "5\" FANCY (2 Pcs)",
+  "COLOUR MATCHES",
+  "MULTI COLOUR SHOT",
+  "FANCY ITEMS VERITES"
+ ],
+ "products": [
+  {
+   "id": 1,
+   "cat": "SOUND CRACKERS",
+   "name": "4\" Gold Lakshmi",
+   "ta": "4\" கோல்டு லட்சுமி",
+   "unit": "1 Pkt",
+   "mrp": 125,
+   "price": 25,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 2,
+   "cat": "SOUND CRACKERS",
+   "name": "4\" Deluxe Lakshmi",
+   "ta": "4\" டீலக்ஸ் லட்சுமி",
+   "unit": "1 Pkt",
+   "mrp": 125,
+   "price": 25,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 3,
+   "cat": "SOUND CRACKERS",
+   "name": "4\" Deluxe Lion",
+   "ta": "4\" டீலக்ஸ் சிங்கம்",
+   "unit": "1 Pkt",
+   "mrp": 150,
+   "price": 30,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 4,
+   "cat": "SOUND CRACKERS",
+   "name": "5\" Deluxe Lion",
+   "ta": "5\" டீலக்ஸ் சிங்கம்",
+   "unit": "1 Pkt",
+   "mrp": 175,
+   "price": 35,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 5,
+   "cat": "SOUND CRACKERS",
+   "name": "6\" Jallikattu",
+   "ta": "6\" ஜல்லிக்கட்டு",
+   "unit": "1 Pkt",
+   "mrp": 150,
+   "price": 30,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 6,
+   "cat": "SOUND CRACKERS",
+   "name": "2¾\" Kuruvi",
+   "ta": "2¾\" குருவி",
+   "unit": "1 Pkt",
+   "mrp": 40,
+   "price": 8,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 7,
+   "cat": "BIJILI CRACKERS",
+   "name": "Red Bijili (100 Pcs)",
+   "ta": "சிகப்பு பிஜிலி 100 பீஸ்",
+   "unit": "1 Bag",
+   "mrp": 125,
+   "price": 25,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 8,
+   "cat": "BIJILI CRACKERS",
+   "name": "Red Bijili (50 Pcs)",
+   "ta": "சிகப்பு பிஜிலி 50 பீஸ்",
+   "unit": "1 Bag",
+   "mrp": 80,
+   "price": 16,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 9,
+   "cat": "BIJILI CRACKERS",
+   "name": "Stripped Bijili (100 Pcs)",
+   "ta": "கோடு பிஜிலி 100 பீஸ்",
+   "unit": "1 Bag",
+   "mrp": 160,
+   "price": 32,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 10,
+   "cat": "BIJILI CRACKERS",
+   "name": "Stripped Bijili (50 Pcs)",
+   "ta": "கோடு பிஜிலி 50 பீஸ்",
+   "unit": "1 Bag",
+   "mrp": 110,
+   "price": 22,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 11,
+   "cat": "BOMB",
+   "name": "Bullet Bomb Mega",
+   "ta": "புல்லட் பாம் மெகா",
+   "unit": "1 Box",
+   "mrp": 200,
+   "price": 40,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 12,
+   "cat": "BOMB",
+   "name": "Bullet Bomb Small",
+   "ta": "புல்லட் பாம் சிறியது",
+   "unit": "1 Box",
+   "mrp": 190,
+   "price": 38,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 13,
+   "cat": "BOMB",
+   "name": "Hydro Bomb Foils",
+   "ta": "ஹைட்ரோ பாம் பாயில்ஸ்",
+   "unit": "1 Box",
+   "mrp": 300,
+   "price": 60,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 14,
+   "cat": "BOMB",
+   "name": "Classic Bomb Foils",
+   "ta": "கிளாசிக் பாம் பாயில்ஸ்",
+   "unit": "1 Box",
+   "mrp": 450,
+   "price": 90,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 15,
+   "cat": "BOMB",
+   "name": "Digital Bomb",
+   "ta": "டிஜிட்டல் பாம்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 16,
+   "cat": "FLOWER POTS",
+   "name": "Flower Pots Small",
+   "ta": "பூச்சட்டி சிறியது",
+   "unit": "1 Box",
+   "mrp": 200,
+   "price": 40,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 17,
+   "cat": "FLOWER POTS",
+   "name": "Flower Pots Special",
+   "ta": "பூச்சட்டி ஸ்பெசல்",
+   "unit": "1 Box",
+   "mrp": 460,
+   "price": 92,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 18,
+   "cat": "FLOWER POTS",
+   "name": "Flower Pots Asoka",
+   "ta": "பூச்சட்டி அசோகா",
+   "unit": "1 Box",
+   "mrp": 585,
+   "price": 117,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 19,
+   "cat": "FLOWER POTS",
+   "name": "Flower Pots Colour Koti",
+   "ta": "பூச்சட்டி கலர் கொட்டி",
+   "unit": "1 Box",
+   "mrp": 820,
+   "price": 165,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 20,
+   "cat": "FLOWER POTS",
+   "name": "Colour Koti Deluxe",
+   "ta": "கலர் கொட்டி டீலக்ஸ்",
+   "unit": "1 Box",
+   "mrp": 1030,
+   "price": 206,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 21,
+   "cat": "FLOWER POTS",
+   "name": "Flower Pots Deluxe",
+   "ta": "பூச்சட்டி டீலக்ஸ்",
+   "unit": "1 Box",
+   "mrp": 1515,
+   "price": 303,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 22,
+   "cat": "FLOWER POTS",
+   "name": "Flower Pots Mega",
+   "ta": "பூச்சட்டி மெகா",
+   "unit": "1 Box",
+   "mrp": 780,
+   "price": 156,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 23,
+   "cat": "FLOWER POTS",
+   "name": "Jumbo Box",
+   "ta": "ஜம்போ பாக்ஸ்",
+   "unit": "1 Box",
+   "mrp": 1820,
+   "price": 364,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 24,
+   "cat": "CHAKKAR ITEMS",
+   "name": "Ground Chakkar Big (10 Pcs)",
+   "ta": "தரைச்சக்கரம் பெரியது",
+   "unit": "1 Box",
+   "mrp": 240,
+   "price": 48,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 25,
+   "cat": "CHAKKAR ITEMS",
+   "name": "Ground Chakkar Big (25 Pcs)",
+   "ta": "தரைச்சக்கரம் பெரியது",
+   "unit": "1 Box",
+   "mrp": 380,
+   "price": 77,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 26,
+   "cat": "CHAKKAR ITEMS",
+   "name": "Ground Chakkar Special",
+   "ta": "தரைச்சக்கரம் ஸ்பெசல்",
+   "unit": "1 Box",
+   "mrp": 350,
+   "price": 75,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 27,
+   "cat": "CHAKKAR ITEMS",
+   "name": "Ground Chakkar Deluxe",
+   "ta": "தரைச்சக்கரம் டீலக்ஸ்",
+   "unit": "1 Box",
+   "mrp": 610,
+   "price": 123,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 28,
+   "cat": "CHAKKAR ITEMS",
+   "name": "Disco Wheel",
+   "ta": "டிஸ்கோ வீல்",
+   "unit": "1 Box",
+   "mrp": 720,
+   "price": 145,
+   "group": "Pots & Chakkar"
+  },
+  {
+   "id": 29,
+   "cat": "TWINKLING STAR",
+   "name": "1½\" Twinkling Star",
+   "ta": "1½\" சாட்டை",
+   "unit": "1 Box",
+   "mrp": 125,
+   "price": 25,
+   "group": "Sparklers"
+  },
+  {
+   "id": 30,
+   "cat": "TWINKLING STAR",
+   "name": "4' Twinkling Star",
+   "ta": "4' சாட்டை",
+   "unit": "1 Box",
+   "mrp": 330,
+   "price": 66,
+   "group": "Sparklers"
+  },
+  {
+   "id": 31,
+   "cat": "ROCKETS",
+   "name": "Rocket Bomb",
+   "ta": "ராக்கெட் பாம்",
+   "unit": "1 Box",
+   "mrp": 300,
+   "price": 60,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 32,
+   "cat": "ROCKETS",
+   "name": "Lunix Express",
+   "ta": "லூனிக் எக்ஸ்பிரஸ்",
+   "unit": "1 Box",
+   "mrp": 550,
+   "price": 110,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 33,
+   "cat": "ROCKETS",
+   "name": "Two Sound Rocket",
+   "ta": "2 சவுண்டு ராக்கெட்",
+   "unit": "1 Box",
+   "mrp": 580,
+   "price": 116,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 34,
+   "cat": "SPARKLERS",
+   "name": "7 Cm Electric Sparklers",
+   "ta": "7செமீ சாதா கம்பி",
+   "unit": "1 Box",
+   "mrp": 50,
+   "price": 10,
+   "group": "Sparklers"
+  },
+  {
+   "id": 35,
+   "cat": "SPARKLERS",
+   "name": "7 Cm Colour Sparklers",
+   "ta": "7செமீ கலர் கம்பி",
+   "unit": "1 Box",
+   "mrp": 60,
+   "price": 12,
+   "group": "Sparklers"
+  },
+  {
+   "id": 36,
+   "cat": "SPARKLERS",
+   "name": "7 Cm Green Sparklers",
+   "ta": "7செமீ பச்சை கம்பி",
+   "unit": "1 Box",
+   "mrp": 60,
+   "price": 12,
+   "group": "Sparklers"
+  },
+  {
+   "id": 37,
+   "cat": "SPARKLERS",
+   "name": "7 Cm Red Sparklers",
+   "ta": "7செமீ சிகப்பு கம்பி",
+   "unit": "1 Box",
+   "mrp": 70,
+   "price": 14,
+   "group": "Sparklers"
+  },
+  {
+   "id": 38,
+   "cat": "SPARKLERS",
+   "name": "10 Cm Electric Sparklers",
+   "ta": "10செமீ சாதா கம்பி",
+   "unit": "1 Box",
+   "mrp": 80,
+   "price": 16,
+   "group": "Sparklers"
+  },
+  {
+   "id": 39,
+   "cat": "SPARKLERS",
+   "name": "10 Cm Colour Sparklers",
+   "ta": "10செமீ கலர் கம்பி",
+   "unit": "1 Box",
+   "mrp": 90,
+   "price": 18,
+   "group": "Sparklers"
+  },
+  {
+   "id": 40,
+   "cat": "SPARKLERS",
+   "name": "10 Cm Green Sparklers",
+   "ta": "10செமீ பச்சை கம்பி",
+   "unit": "1 Box",
+   "mrp": 100,
+   "price": 20,
+   "group": "Sparklers"
+  },
+  {
+   "id": 41,
+   "cat": "SPARKLERS",
+   "name": "10 Cm Red Sparklers",
+   "ta": "10செமீ சிகப்பு கம்பி",
+   "unit": "1 Box",
+   "mrp": 120,
+   "price": 24,
+   "group": "Sparklers"
+  },
+  {
+   "id": 42,
+   "cat": "SPARKLERS",
+   "name": "12 Cm Electric Sparklers",
+   "ta": "12செமீ சாதா கம்பி",
+   "unit": "1 Box",
+   "mrp": 130,
+   "price": 26,
+   "group": "Sparklers"
+  },
+  {
+   "id": 43,
+   "cat": "SPARKLERS",
+   "name": "12 Cm Colour Sparklers",
+   "ta": "12செமீ கலர் கம்பி",
+   "unit": "1 Box",
+   "mrp": 140,
+   "price": 28,
+   "group": "Sparklers"
+  },
+  {
+   "id": 44,
+   "cat": "SPARKLERS",
+   "name": "12 Cm Green Sparklers",
+   "ta": "12செமீ பச்சை கம்பி",
+   "unit": "1 Box",
+   "mrp": 130,
+   "price": 26,
+   "group": "Sparklers"
+  },
+  {
+   "id": 45,
+   "cat": "SPARKLERS",
+   "name": "12 Cm Red Sparklers",
+   "ta": "12செமீ சிகப்பு கம்பி",
+   "unit": "1 Box",
+   "mrp": 145,
+   "price": 29,
+   "group": "Sparklers"
+  },
+  {
+   "id": 46,
+   "cat": "SPARKLERS",
+   "name": "15 Cm Electric Sparklers",
+   "ta": "15செமீ சாதா கம்பி",
+   "unit": "1 Box",
+   "mrp": 190,
+   "price": 38,
+   "group": "Sparklers"
+  },
+  {
+   "id": 47,
+   "cat": "SPARKLERS",
+   "name": "15 Cm Colour Sparklers",
+   "ta": "15செமீ கலர் கம்பி",
+   "unit": "1 Box",
+   "mrp": 210,
+   "price": 42,
+   "group": "Sparklers"
+  },
+  {
+   "id": 48,
+   "cat": "SPARKLERS",
+   "name": "15 Cm Green Sparklers",
+   "ta": "15செமீ பச்சை கம்பி",
+   "unit": "1 Box",
+   "mrp": 215,
+   "price": 43,
+   "group": "Sparklers"
+  },
+  {
+   "id": 49,
+   "cat": "SPARKLERS",
+   "name": "15 Cm Red Sparklers",
+   "ta": "15செமீ சிகப்பு கம்பி",
+   "unit": "1 Box",
+   "mrp": 225,
+   "price": 45,
+   "group": "Sparklers"
+  },
+  {
+   "id": 50,
+   "cat": "SPARKLERS",
+   "name": "30 Cm Electric Sparklers",
+   "ta": "30செமீ சாதா கம்பி",
+   "unit": "1 Box",
+   "mrp": 190,
+   "price": 38,
+   "group": "Sparklers"
+  },
+  {
+   "id": 51,
+   "cat": "SPARKLERS",
+   "name": "30 Cm Colour Sparklers",
+   "ta": "30செமீ கலர் கம்பி",
+   "unit": "1 Box",
+   "mrp": 210,
+   "price": 42,
+   "group": "Sparklers"
+  },
+  {
+   "id": 52,
+   "cat": "SPARKLERS",
+   "name": "30 Cm Green Sparklers",
+   "ta": "30செமீ பச்சை கம்பி",
+   "unit": "1 Box",
+   "mrp": 225,
+   "price": 45,
+   "group": "Sparklers"
+  },
+  {
+   "id": 53,
+   "cat": "SPARKLERS",
+   "name": "30 Cm Red Sparklers",
+   "ta": "30செமீ சிகப்பு கம்பி",
+   "unit": "1 Box",
+   "mrp": 240,
+   "price": 48,
+   "group": "Sparklers"
+  },
+  {
+   "id": 54,
+   "cat": "SPARKLERS",
+   "name": "50 Cm Electric Sparklers",
+   "ta": "50செமீ சாதா கம்பி",
+   "unit": "1 Box",
+   "mrp": 700,
+   "price": 140,
+   "group": "Sparklers"
+  },
+  {
+   "id": 55,
+   "cat": "SPARKLERS",
+   "name": "50 Cm Colour Sparklers",
+   "ta": "50செமீ கலர் கம்பி",
+   "unit": "1 Box",
+   "mrp": 950,
+   "price": 190,
+   "group": "Sparklers"
+  },
+  {
+   "id": 56,
+   "cat": "PAPER BOMB",
+   "name": "¼ Kg Paper Bomb",
+   "ta": "¼ Kg பேப்பர் பாம்",
+   "unit": "1 Pce",
+   "mrp": 300,
+   "price": 60,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 57,
+   "cat": "PAPER BOMB",
+   "name": "½ Kg Paper Bomb",
+   "ta": "½ Kg பேப்பர் பாம்",
+   "unit": "1 Pce",
+   "mrp": 600,
+   "price": 120,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 58,
+   "cat": "PAPER BOMB",
+   "name": "1 Kg Paper Bomb",
+   "ta": "1 Kg பேப்பர் பாம்",
+   "unit": "1 Pce",
+   "mrp": 1200,
+   "price": 240,
+   "group": "Sound & Bombs"
+  },
+  {
+   "id": 59,
+   "cat": "FANCY ITEMS",
+   "name": "Chittu Buttu TikTok",
+   "ta": "சிட்டு புட்டு டிக்டாக்",
+   "unit": "1 Box",
+   "mrp": 350,
+   "price": 70,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 60,
+   "cat": "FANCY ITEMS",
+   "name": "Silver Drops",
+   "ta": "சில்வர் ட்ராப்ஸ்",
+   "unit": "1 Box",
+   "mrp": 500,
+   "price": 100,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 61,
+   "cat": "FANCY ITEMS",
+   "name": "Feather Peacock",
+   "ta": "பெதர் பீக்காக்",
+   "unit": "1 Box",
+   "mrp": 500,
+   "price": 100,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 62,
+   "cat": "FANCY ITEMS",
+   "name": "Siren (3 Pcs)",
+   "ta": "சைரன்",
+   "unit": "1 Box",
+   "mrp": 750,
+   "price": 150,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 63,
+   "cat": "FANCY ITEMS",
+   "name": "Ganga Jamuna (5 Pcs)",
+   "ta": "கங்கா ஜமுனா",
+   "unit": "1 Box",
+   "mrp": 400,
+   "price": 80,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 64,
+   "cat": "FANCY ITEMS",
+   "name": "Butterfly (10 Pcs)",
+   "ta": "பட்டர் பிளை",
+   "unit": "1 Box",
+   "mrp": 500,
+   "price": 100,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 65,
+   "cat": "FANCY ITEMS",
+   "name": "Bambaram (10 Pcs)",
+   "ta": "பம்பரம்",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 66,
+   "cat": "FANCY ITEMS",
+   "name": "Helicopter (5 Pcs)",
+   "ta": "ஹெலிகாப்டர்",
+   "unit": "1 Box",
+   "mrp": 500,
+   "price": 100,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 67,
+   "cat": "FANCY ITEMS",
+   "name": "Dry Colour (5 Pcs)",
+   "ta": "ட்ரை கலர்",
+   "unit": "1 Box",
+   "mrp": 1500,
+   "price": 300,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 68,
+   "cat": "FANCY ITEMS",
+   "name": "7 Shots (5 Pcs)",
+   "ta": "7 சாட்",
+   "unit": "1 Box",
+   "mrp": 750,
+   "price": 150,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 69,
+   "cat": "FANCY ITEMS",
+   "name": "Drone (1 Pce)",
+   "ta": "ட்ரோன்",
+   "unit": "1 Box",
+   "mrp": 700,
+   "price": 140,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 70,
+   "cat": "FANCY ITEMS",
+   "name": "Peacock Dance",
+   "ta": "பீக்காக் டான்ஸ்",
+   "unit": "1 Box",
+   "mrp": 2800,
+   "price": 560,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 71,
+   "cat": "FANCY ITEMS",
+   "name": "Smoke Colour (3 Pcs)",
+   "ta": "ஸ்மோக் கலர்",
+   "unit": "1 Box",
+   "mrp": 750,
+   "price": 150,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 72,
+   "cat": "FANCY ITEMS",
+   "name": "Sky Shot",
+   "ta": "ஸ்கை ஷாட்",
+   "unit": "1 Box",
+   "mrp": 400,
+   "price": 80,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 73,
+   "cat": "FANCY ITEMS",
+   "name": "Single Tin (1 Pcs)",
+   "ta": "சிங்கிள் டின்",
+   "unit": "1 Box",
+   "mrp": 500,
+   "price": 100,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 74,
+   "cat": "FANCY ITEMS",
+   "name": "Photo Falsh",
+   "ta": "போட்டோ பிளாஷ்",
+   "unit": "1 Box",
+   "mrp": 350,
+   "price": 70,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 75,
+   "cat": "FANCY ITEMS",
+   "name": "Selfi Stick",
+   "ta": "செல்பி ஸ்டிக்",
+   "unit": "1 Box",
+   "mrp": 450,
+   "price": 90,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 76,
+   "cat": "FANCY ITEMS",
+   "name": "Mini Siren (5 Pcs)",
+   "ta": "மினி சைரன்",
+   "unit": "1 Box",
+   "mrp": 750,
+   "price": 150,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 77,
+   "cat": "2\" FANCY SINGLE PIPE",
+   "name": "Pandia Night",
+   "ta": "பாண்டியா நைட்",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 78,
+   "cat": "2\" FANCY SINGLE PIPE",
+   "name": "Mota Gp",
+   "ta": "மோட்டோ ஜிபி",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 79,
+   "cat": "2\" FANCY SINGLE PIPE",
+   "name": "Golden Hits",
+   "ta": "கோல்டன் ஹிட்ஸ்",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 80,
+   "cat": "2\" FANCY SINGLE PIPE",
+   "name": "Mot Top",
+   "ta": "மோட் டாப்",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 81,
+   "cat": "2\" FANCY SINGLE PIPE",
+   "name": "I Love Mugi",
+   "ta": "ஐ லவ் முகி",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 82,
+   "cat": "2\" FANCY SINGLE PIPE",
+   "name": "Golden Rain",
+   "ta": "கோல்டன் ரெயின்",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 83,
+   "cat": "2\" FANCY SINGLE PIPE",
+   "name": "Once More",
+   "ta": "ஒன்ஸ்மோர்",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 84,
+   "cat": "2\" FANCY SINGLE PIPE",
+   "name": "Space Que action",
+   "ta": "ஸ்பேஸ் கியூ ஆக்சன்",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 85,
+   "cat": "2\" FANCY SINGLE PIPE",
+   "name": "Sonices",
+   "ta": "சோனிக்ஸ்",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 86,
+   "cat": "2\" FANCY SINGLE PIPE",
+   "name": "Lets Geraction",
+   "ta": "லெட்ஸ் ஜெராக்சன்",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 87,
+   "cat": "2\"FANCY PIPE (3 Pcs)",
+   "name": "Carnival Wariyar (3 Pcs)",
+   "ta": "கார்னிவல் வாரியர்",
+   "unit": "1 Box",
+   "mrp": 1550,
+   "price": 310,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 88,
+   "cat": "2\"FANCY PIPE (3 Pcs)",
+   "name": "Wariyar (3 Pcs)",
+   "ta": "வாரியர்",
+   "unit": "1 Box",
+   "mrp": 1550,
+   "price": 310,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 89,
+   "cat": "2\"FANCY PIPE (3 Pcs)",
+   "name": "Fantasy",
+   "ta": "பேன்டசி",
+   "unit": "1 Box",
+   "mrp": 1550,
+   "price": 310,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 90,
+   "cat": "2\"FANCY PIPE (3 Pcs)",
+   "name": "KTM",
+   "ta": "கே.டி.எம்",
+   "unit": "1 Box",
+   "mrp": 1550,
+   "price": 310,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 91,
+   "cat": "3½\" PIPE FANCY MULTICOLOUR",
+   "name": "Vally Ball (1 Pce)",
+   "ta": "வாலிபால்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 92,
+   "cat": "3½\" PIPE FANCY MULTICOLOUR",
+   "name": "Spirt Eegless",
+   "ta": "ஸ்பிரிட் எக்லெஸ்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 93,
+   "cat": "3½\" PIPE FANCY MULTICOLOUR",
+   "name": "Hennesy",
+   "ta": "ஹென்னஸி",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 94,
+   "cat": "3½\" PIPE FANCY MULTICOLOUR",
+   "name": "Never Stop",
+   "ta": "நெவர் ஸ்டாப்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 95,
+   "cat": "3½\" PIPE FANCY MULTICOLOUR",
+   "name": "Don't Care",
+   "ta": "டோன்ட் கேர்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 96,
+   "cat": "3½\" PIPE FANCY MULTICOLOUR",
+   "name": "Wedding Series 7 Step",
+   "ta": "வெட்டிங் சீரிஸ்",
+   "unit": "1 Box",
+   "mrp": 1600,
+   "price": 320,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 97,
+   "cat": "4\" SINGLE FANCY",
+   "name": "Jackwar (1Pce)",
+   "ta": "ஜாக்குவார்",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 98,
+   "cat": "4\" SINGLE FANCY",
+   "name": "Rangeover (1Pce)",
+   "ta": "ரேஞ்ச்ஓவர்",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 99,
+   "cat": "4\" SINGLE FANCY",
+   "name": "Benz (1Pce)",
+   "ta": "பென்ஸ்",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 100,
+   "cat": "4\" SINGLE FANCY",
+   "name": "Volvo (1 Pce)",
+   "ta": "வால்வோ",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 101,
+   "cat": "4\" SINGLE FANCY",
+   "name": "Audi (1 Pce)",
+   "ta": "ஆடி",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 102,
+   "cat": "4\" SINGLE FANCY",
+   "name": "BMW (1 Pce)",
+   "ta": "பி எம் டபிள்யு",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 103,
+   "cat": "4\" FANCY MULTI COLOUR",
+   "name": "Youth Champion",
+   "ta": "யூத் சேம்பியன்",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 104,
+   "cat": "4\" FANCY MULTI COLOUR",
+   "name": "Spot Services",
+   "ta": "ஸ்பாட் சர்வீஸ்",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 105,
+   "cat": "4\" FANCY MULTI COLOUR",
+   "name": "Cricket",
+   "ta": "கிரிக்கெட்",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 106,
+   "cat": "4\" FANCY MULTI COLOUR",
+   "name": "Padmitton",
+   "ta": "பேட்மிட்டன்",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 107,
+   "cat": "4\" FANCY MULTI COLOUR",
+   "name": "Super Spickey",
+   "ta": "சூப்பர் ஸ்பிக்கி",
+   "unit": "1 Box",
+   "mrp": 1750,
+   "price": 350,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 108,
+   "cat": "4\" FANCY MULTI COLOUR",
+   "name": "Kargil War",
+   "ta": "கார்கில் வார்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 109,
+   "cat": "4\" FANCY MULTI COLOUR",
+   "name": "World War",
+   "ta": "வோர்ல்டு வார்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 110,
+   "cat": "4\" FANCY MULTI COLOUR",
+   "name": "Sucker Pungil",
+   "ta": "சுக்கர் புகில்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 111,
+   "cat": "4\" FANCY MULTI COLOUR",
+   "name": "Refaner",
+   "ta": "ரிபென்னர்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 112,
+   "cat": "4\" FANCY MULTI COLOUR",
+   "name": "Hulk War",
+   "ta": "ஹல்க் வார்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 113,
+   "cat": "4½\" FANCY PIPE (2 Pcs)",
+   "name": "Hawallan",
+   "ta": "ஹவாலான்",
+   "unit": "1 Box",
+   "mrp": 5000,
+   "price": 1000,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 114,
+   "cat": "4½\" FANCY PIPE (2 Pcs)",
+   "name": "Germany",
+   "ta": "ஜெர்மனி",
+   "unit": "1 Box",
+   "mrp": 5000,
+   "price": 1000,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 115,
+   "cat": "4½\" FANCY PIPE (2 Pcs)",
+   "name": "Luthansa",
+   "ta": "லூதியான்சா",
+   "unit": "1 Box",
+   "mrp": 5000,
+   "price": 1000,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 116,
+   "cat": "4½\" FANCY PIPE (2 Pcs)",
+   "name": "Alaska (2 Pcs)",
+   "ta": "அலாஸ்கா",
+   "unit": "1 Box",
+   "mrp": 5000,
+   "price": 1000,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 117,
+   "cat": "4½\" FANCY PIPE (2 Pcs)",
+   "name": "Emirates (2 Pcs)",
+   "ta": "எமிரேட்ஸ்",
+   "unit": "1 Box",
+   "mrp": 5000,
+   "price": 1000,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 118,
+   "cat": "5\" FANCY SINGLE PIPE (1 Pce)",
+   "name": "Seven Up (1 Pce)",
+   "ta": "செவன் அப்",
+   "unit": "1 Box",
+   "mrp": 2500,
+   "price": 500,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 119,
+   "cat": "5\" FANCY SINGLE PIPE (1 Pce)",
+   "name": "Sprite (1 Pce)",
+   "ta": "ஸ்பிரைட்",
+   "unit": "1 Box",
+   "mrp": 2500,
+   "price": 500,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 120,
+   "cat": "5\" FANCY SINGLE PIPE (1 Pce)",
+   "name": "Pepsi (1 Pce)",
+   "ta": "பெப்சி",
+   "unit": "1 Box",
+   "mrp": 2500,
+   "price": 500,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 121,
+   "cat": "5\" FANCY SINGLE PIPE (1 Pce)",
+   "name": "Masa (1 Pce)",
+   "ta": "மாசா",
+   "unit": "1 Box",
+   "mrp": 2500,
+   "price": 500,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 122,
+   "cat": "5\" FANCY SINGLE PIPE (1 Pce)",
+   "name": "Fanta (1 Pce)",
+   "ta": "பேன்டா",
+   "unit": "1 Box",
+   "mrp": 2500,
+   "price": 500,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 123,
+   "cat": "5\" FANCY (2 Pcs)",
+   "name": "Oreo",
+   "ta": "ஓரியோ",
+   "unit": "1 Box",
+   "mrp": 3500,
+   "price": 700,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 124,
+   "cat": "5\" FANCY (2 Pcs)",
+   "name": "Unbic",
+   "ta": "அன்பிக்",
+   "unit": "1 Box",
+   "mrp": 3500,
+   "price": 700,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 125,
+   "cat": "5\" FANCY (2 Pcs)",
+   "name": "Butter Back",
+   "ta": "பட்டர் பேக்",
+   "unit": "1 Box",
+   "mrp": 3500,
+   "price": 700,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 126,
+   "cat": "5\" FANCY (2 Pcs)",
+   "name": "Treat",
+   "ta": "ட்ரீட்",
+   "unit": "1 Box",
+   "mrp": 3500,
+   "price": 700,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 127,
+   "cat": "5\" FANCY (2 Pcs)",
+   "name": "Bour Bon",
+   "ta": "போர் பன்",
+   "unit": "1 Box",
+   "mrp": 3500,
+   "price": 700,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 128,
+   "cat": "5\" FANCY (2 Pcs)",
+   "name": "Chennai Super Kings",
+   "ta": "சென்னை சூப்பர் கிங்ஸ்",
+   "unit": "1 Box",
+   "mrp": 5000,
+   "price": 1000,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 129,
+   "cat": "5\" FANCY (2 Pcs)",
+   "name": "Rajesthan Royals",
+   "ta": "ராஜஸ்தான் ராயல்ஸ்",
+   "unit": "1 Box",
+   "mrp": 5000,
+   "price": 1000,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 130,
+   "cat": "5\" FANCY (2 Pcs)",
+   "name": "Mumbai Indians",
+   "ta": "மும்பை இண்டியன்ஸ்",
+   "unit": "1 Box",
+   "mrp": 5000,
+   "price": 1000,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 131,
+   "cat": "5\" FANCY (2 Pcs)",
+   "name": "Delhi Capitals",
+   "ta": "டெல்லி கேப்பிட்டல்ஸ்",
+   "unit": "1 Box",
+   "mrp": 5000,
+   "price": 1000,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 132,
+   "cat": "5\" FANCY (2 Pcs)",
+   "name": "Royal Chalengers",
+   "ta": "ராயல் சேலஞ்சர்ஸ்",
+   "unit": "1 Box",
+   "mrp": 5000,
+   "price": 1000,
+   "group": "Fancy Pipes"
+  },
+  {
+   "id": 133,
+   "cat": "COLOUR MATCHES",
+   "name": "Disco Jumbo Mini 10 in 1 Match",
+   "ta": "டிஸ்கோ ஜம்போ",
+   "unit": "1 Box",
+   "mrp": 500,
+   "price": 100,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 134,
+   "cat": "COLOUR MATCHES",
+   "name": "Annam Deluxe",
+   "ta": "அன்னம் டீலக்ஸ்",
+   "unit": "1 Box",
+   "mrp": 600,
+   "price": 120,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 135,
+   "cat": "COLOUR MATCHES",
+   "name": "Crown Jumbo Classic 10 in 1 Match",
+   "ta": "கிரௌன் ஜம்போ கிளாசிக்",
+   "unit": "1 Box",
+   "mrp": 1000,
+   "price": 200,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 136,
+   "cat": "MULTI COLOUR SHOT",
+   "name": "12 Shot",
+   "ta": "12 ஷாட்",
+   "unit": "1 Box",
+   "mrp": 550,
+   "price": 110,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 137,
+   "cat": "MULTI COLOUR SHOT",
+   "name": "15 Shot Sweet Rider",
+   "ta": "15 ஷாட் சுவீட் ரைடர்",
+   "unit": "1 Box",
+   "mrp": 1200,
+   "price": 240,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 138,
+   "cat": "MULTI COLOUR SHOT",
+   "name": "15 Shot Colour Smoke Rider",
+   "ta": "15 ஷாட் கலர் சுமோக் ரைடர்",
+   "unit": "1 Box",
+   "mrp": 2000,
+   "price": 400,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 139,
+   "cat": "MULTI COLOUR SHOT",
+   "name": "30 Shot Twin Dragons",
+   "ta": "30 ஷாட் ட்வின் ட்ராகன்ஸ்",
+   "unit": "1 Box",
+   "mrp": 1850,
+   "price": 370,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 140,
+   "cat": "MULTI COLOUR SHOT",
+   "name": "60 Shot Multicolour N.Parrot",
+   "ta": "60 ஷாட் மல்டி கலர் பேரட்",
+   "unit": "1 Box",
+   "mrp": 3750,
+   "price": 750,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 141,
+   "cat": "MULTI COLOUR SHOT",
+   "name": "120 Shot Puppy Multicolour",
+   "ta": "120 ஷாட் பப்பி மல்டிகலர்",
+   "unit": "1 Box",
+   "mrp": 8000,
+   "price": 1600,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 142,
+   "cat": "MULTI COLOUR SHOT",
+   "name": "240 Shot Multicolour",
+   "ta": "240 ஷாட் மல்டிகலர்",
+   "unit": "1 Box",
+   "mrp": 16000,
+   "price": 3200,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 143,
+   "cat": "MULTI COLOUR SHOT",
+   "name": "Chill Out Colour Smoke Rider",
+   "ta": "சில் அவுட் சுமோக் ரைடர்",
+   "unit": "1 Box",
+   "mrp": 2000,
+   "price": 400,
+   "group": "Rockets & Shots"
+  },
+  {
+   "id": 144,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "King Version",
+   "ta": "கிங் வெர்சன்",
+   "unit": "1 Box",
+   "mrp": 1000,
+   "price": 200,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 145,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Reshma Celebration (4 Pcs)",
+   "ta": "ரேஸ்மா செலிபிரேசன்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 146,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Kulfi (2 Pcs)",
+   "ta": "குல்பி",
+   "unit": "1 Box",
+   "mrp": 1500,
+   "price": 300,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 147,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Smoke Bomb Cyclennder",
+   "ta": "சுமோக் பாம் சிலிண்டர்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 148,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Magic Sound",
+   "ta": "மேஜிக் சவுண்ட்",
+   "unit": "1 Box",
+   "mrp": 850,
+   "price": 170,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 149,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Lolly Pop",
+   "ta": "லாலி பாப்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 150,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Toy Colour",
+   "ta": "டாய் கலர்",
+   "unit": "1 Box",
+   "mrp": 1500,
+   "price": 300,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 151,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Spinning Sparkler",
+   "ta": "ஸ்பின்னிங் ஸ்பார்க்லர்ஸ்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 152,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "3 Angles",
+   "ta": "3 ஏஞ்சல்ஸ்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 153,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Crackling Fountain",
+   "ta": "கிராக்ளிங் பவுண்டைன்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 154,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Silver Laddu",
+   "ta": "சில்வர் லட்டு",
+   "unit": "1 Box",
+   "mrp": 2250,
+   "price": 450,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 155,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Golden Laddu",
+   "ta": "கோல்டன் லட்டு",
+   "unit": "1 Box",
+   "mrp": 2250,
+   "price": 450,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 156,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Money Bank",
+   "ta": "மணிபேங்க்",
+   "unit": "1 Box",
+   "mrp": 700,
+   "price": 140,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 157,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "MRF Bat",
+   "ta": "எம் ஆர் எப் பேட்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 158,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Guitar",
+   "ta": "கிடார்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 159,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "I Cone",
+   "ta": "ஐ கோன்",
+   "unit": "1 Box",
+   "mrp": 1200,
+   "price": 240,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 160,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Free Fire",
+   "ta": "ப்ரீ பயர்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 161,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Jungle Beat",
+   "ta": "ஜங்கிள் பீட்",
+   "unit": "1 Box",
+   "mrp": 1200,
+   "price": 240,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 162,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Celebration 4 in 1",
+   "ta": "செலிபரேசன் 4 இன் 1",
+   "unit": "1 Box",
+   "mrp": 1200,
+   "price": 240,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 163,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Selfi Stick",
+   "ta": "செல்பி ஸ்டிக்",
+   "unit": "1 Box",
+   "mrp": 450,
+   "price": 90,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 164,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "AK 47 Gun",
+   "ta": "ஏகே 47 கண்",
+   "unit": "1 Box",
+   "mrp": 1000,
+   "price": 200,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 165,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Wire Chakkar",
+   "ta": "வயர் சக்கர்",
+   "unit": "1 Box",
+   "mrp": 1300,
+   "price": 260,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 166,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Handle Peacock",
+   "ta": "ஹேண்டில் பீக்காக்",
+   "unit": "1 Box",
+   "mrp": 1300,
+   "price": 260,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 167,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Friuts (Orange, Apple, Pineapple, Pumbkin, Strawberry)",
+   "ta": "ப்ருட்ஸ் (ஆரஞ்ச், ஆப்பிள், பைன்ஆப்பள், பம்கின், ஸ்ராபெர்ரி)",
+   "unit": "1 Box",
+   "mrp": 1200,
+   "price": 240,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 168,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Knife",
+   "ta": "நைவ்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 169,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Scooter Gun (5 Pcs)",
+   "ta": "ஸ்கூட்டர் கண்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 170,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "90 Kids",
+   "ta": "90 கிட்ஸ்",
+   "unit": "1 Box",
+   "mrp": 900,
+   "price": 180,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 171,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Hanuman Kadhautham",
+   "ta": "ஹனுமன் கதாயுதம்",
+   "unit": "1 Box",
+   "mrp": 1250,
+   "price": 250,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 172,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Crackling Tin",
+   "ta": "கிராக்ளிங் டின்",
+   "unit": "1 Box",
+   "mrp": 750,
+   "price": 150,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 173,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "6\" Popcorn",
+   "ta": "பாப்கார்ன்",
+   "unit": "1 Box",
+   "mrp": 750,
+   "price": 150,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 174,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "4\" Kolo",
+   "ta": "கோலோ",
+   "unit": "1 Box",
+   "mrp": 500,
+   "price": 100,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 175,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "4\" Limca",
+   "ta": "லிம்கா",
+   "unit": "1 Box",
+   "mrp": 500,
+   "price": 100,
+   "group": "Fancy & Novelty"
+  },
+  {
+   "id": 176,
+   "cat": "FANCY ITEMS VERITES",
+   "name": "Phone",
+   "ta": "போன்",
+   "unit": "1 Box",
+   "mrp": 1200,
+   "price": 240,
+   "group": "Fancy & Novelty"
+  }
+ ],
+ "groups": [
+  "Sound & Bombs",
+  "Pots & Chakkar",
+  "Sparklers",
+  "Rockets & Shots",
+  "Fancy Pipes",
+  "Fancy & Novelty"
+ ]
+}
